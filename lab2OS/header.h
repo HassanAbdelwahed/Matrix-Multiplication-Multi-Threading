@@ -1,4 +1,5 @@
 #define MAX 20
+
 void ReadMatA();
 void ReadMatB();
 void by_matrix();
