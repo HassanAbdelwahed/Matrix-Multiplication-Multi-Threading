@@ -63,7 +63,7 @@ A parallelized version of matrix multiplication can be done using one of these t
         11 12 13 14 15
 
 * Read the input matrices from their corresponding files. Each row is on a separate line, columns are separated by spaces.
-* Use threads to calculate the matrix that results from multiplying the input two matrixes.
+* Using threads to calculate the matrix that results from multiplying the input two matrixes.
 * Output the resulting matrices in three files (each file represents one method). The following is an example of the format of the three output files.
 
     c_per_matrix.txt
